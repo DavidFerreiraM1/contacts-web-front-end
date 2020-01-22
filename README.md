@@ -6,7 +6,10 @@ Um dos objetivos da aplicação também consiste em assegurar que o desenvolvedo
 
 ## Construído com 
 
-* React Js 16.8.6
+* Node 10.15.2
+* React 16.12.0
+* Typescript 3.7.2
+* Redux 4.0.5
 
 ## Começando
 
@@ -18,10 +21,8 @@ Faça um download da aplicação em seu computador, navegue até a pasta do proj
 
 ```
 npm install - Para recuperar todas as dependências do projeto
-npm start - Para que um servidor local seja inicializado e o projeto seja aberto
+npm start - Para inicializar o projeto
 ````
-
-OBS: Certifique-se de ter o **Node** instalado em sua máquina, a versão utilizada no desenvolvimento é a 10.15.1.
 
 ## Autor
 
