@@ -13,7 +13,7 @@ Um dos objetivos da aplicação também consiste em assegurar que o desenvolvedo
 
 ## Começando
 
-É necessário fazer o download da Api com a qual a presente aplicação consomirá os serviços. Acesse [back-end](https://github.com/DavidFerreiraM1/contacts-web-back-end), e faça downlaod do projeto.
+É necessário fazer o download da Api com a qual a presente aplicação consumirá os serviços. Acesse [back-end](https://github.com/DavidFerreiraM1/contacts-web-back-end), e faça downlaod do projeto.
 
 ## Executando o projeto
 
